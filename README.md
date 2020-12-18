@@ -1,5 +1,5 @@
 # ImageJSON
-The SR-postprocess macro is written in the ImageJ 1 macrolanguage. It has many settings that have an effect on the final rendered image. This plugin is used to save the settings in json format for easy indexing by other software. Does not support reading json from IJ1 macrolanguage.
+The SR-postprocess macro is written in the ImageJ1 Macro language. It has many settings that have an effect on the final rendered image. This plugin is used to save the settings in json format for easy indexing by other software. Does not support reading json from IJ1 macrolanguage.
 
 The following macro would produce a simple json-file with a string and a number. See the [test files](src/test) for more elaborate examples.
 ```
